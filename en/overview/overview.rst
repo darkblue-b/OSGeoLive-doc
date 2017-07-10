@@ -112,7 +112,7 @@ Geospatial Libraries
 * :doc:`geos_overview` - C/C++ Spatial Library
 * :doc:`jts_overview` - Java Topology Suite' ;  a LocationTech project
 
-Available from prior OSGeo-Live releases:
+Available in prior OSGeo-Live releases:
 --------------------------------------------------------------------------------
 
 * :doc:`mapwindow_overview` - [:doc:`QuickStart <../quickstart/mapwindow_quickstart>`] - Microsoft Windows based Desktop GIS, only available as a Windows installer, not included after OSGeo-Live 10.5
